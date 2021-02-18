@@ -1,2 +1,2 @@
 # Solutions
-this is a list of solution in Golang
+This is a list of problem-solution in Golang for competitive programming
