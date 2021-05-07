@@ -3,7 +3,6 @@
 // Output: 321
 // Input: x = -123
 // Output: -321
-
 func reverse(x int) int {
     y := 0
   	for x < 0 || x > 0 {
