@@ -5,7 +5,6 @@ Output: true
 Input: x = -121
 Output: false
 */
-
 func isPalindrome(x int) bool {
     x2 := x
     y := 0
