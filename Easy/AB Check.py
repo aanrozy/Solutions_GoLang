@@ -1,0 +1,15 @@
+#Have the function ABCheck(str) take the str parameter being passed and return the string true if the characters a and b are separated by exactly 3 places anywhere in the string at least once (ie. "lane borrowed" would result in true because there is exactly three characters between a and b). Otherwise return the string false.
+def ABCheck(strParam):
+
+  # code goes here  
+  i = 0
+  for i in range(len(strParam)-4):
+    if strParam[i] == 'a' and strParam[i + 4] == 'b':
+      return 'true'
+    elif strParam[i] == 'b' and strParam[i + 4] == 'a':
+      return 'true'
+    i += 1
+  return 'false'
+
+# keep this function call here 
+print ABCheck(raw_input())
