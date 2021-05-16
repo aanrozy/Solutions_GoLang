@@ -1,2 +1,9 @@
 # Solutions
-This is a list of problem-solution in Golang for competitive programming
+Leetcode
+easy()
+
+Coderbyte
+Lv1 easy()
+Lv2 easy()
+Lv3 easy()
+Lv3 medium()
