@@ -1,9 +1,9 @@
-# Solutions
-Leetcode
-easy()
+# Solutions  
+Leetcode  
+easy()  
 
-Coderbyte
-Lv1 easy()
-Lv2 easy()
-Lv3 easy()
-Lv3 medium()
+Coderbyte  
+Lv1 easy()  
+Lv2 easy()  
+Lv3 easy()  
+Lv3 medium()  
